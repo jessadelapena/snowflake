@@ -2,7 +2,7 @@ repo_name: jessadelapena/snowflake
 report_id: e2693fde8e5c9baaec986366f6674ce3
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-26T09:14:38+00:00'
+timestamp: '2024-02-29T19:37:56+00:00'
 requested_by: web-flow
 provider: github
 branch: master
@@ -33,7 +33,7 @@ tools:
   last_updated_by: Jonathan Fuchs
   last_updated_on: 2017-10-07 21:22:49.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 9.0.7
   open_source: true
